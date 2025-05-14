@@ -1,0 +1,3 @@
+﻿  1erGE - E5.cpp
+C:\Users\ffmag\source\repos\1erGE - E5\1erGE - E5\1erGE - E5.cpp(19,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  1erGE - E5.vcxproj -> C:\Users\ffmag\source\repos\1erGE - E5\x64\Debug\1erGE - E5.exe

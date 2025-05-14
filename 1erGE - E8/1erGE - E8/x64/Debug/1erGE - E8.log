@@ -1,0 +1,6 @@
+﻿  1erGE - E8.cpp
+C:\Users\ffmag\source\repos\1erGE - E8\1erGE - E8\1erGE - E8.cpp(15,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ffmag\source\repos\1erGE - E8\1erGE - E8\1erGE - E8.cpp(23,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ffmag\source\repos\1erGE - E8\1erGE - E8\1erGE - E8.cpp(23,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ffmag\source\repos\1erGE - E8\1erGE - E8\1erGE - E8.cpp(29,26): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  1erGE - E8.vcxproj -> C:\Users\ffmag\source\repos\1erGE - E8\x64\Debug\1erGE - E8.exe

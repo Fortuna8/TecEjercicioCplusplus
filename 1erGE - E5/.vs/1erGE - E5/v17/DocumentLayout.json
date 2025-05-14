@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ffmag\\source\\repos\\1erGE - E5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7940DCAC-0B4F-47CD-AF50-209BA4BC075E}|1erGE - E5\\1erGE - E5.vcxproj|C:\\Users\\ffmag\\source\\repos\\1erGE - E5\\1erGE - E5\\1erGE - E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7940DCAC-0B4F-47CD-AF50-209BA4BC075E}|1erGE - E5\\1erGE - E5.vcxproj|solutionrelative:1erGE - E5\\1erGE - E5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1erGE - E5.cpp",
+              "DocumentMoniker": "C:\\Users\\ffmag\\source\\repos\\1erGE - E5\\1erGE - E5\\1erGE - E5.cpp",
+              "RelativeDocumentMoniker": "1erGE - E5\\1erGE - E5.cpp",
+              "ToolTip": "C:\\Users\\ffmag\\source\\repos\\1erGE - E5\\1erGE - E5\\1erGE - E5.cpp",
+              "RelativeToolTip": "1erGE - E5\\1erGE - E5.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T04:55:44.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
