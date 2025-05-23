@@ -1,10 +1,7 @@
 #pragma once
 
-//Enums
-
-
-//Funciones
-
+// Funciones
+int CalcularDanio(int ataque, int defensa);
 
 //Variables
-
+int ataque, defensa;

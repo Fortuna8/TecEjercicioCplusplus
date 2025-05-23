@@ -1,10 +1,20 @@
 #pragma once
+#include <string>
 
 //Enums
 
 
-//Funciones
 
+// Variables
+std::string PlayerName;
+float AttackPower;
+float AttackSpeed;
+float DefensePower;
+float PlayerMaxHealth;
+float PlayerHP;
+float CriticalDamageMultiplier;
 
-//Variables
-
+// Funciones
+void IngresarStatsJugador();
+void MostrarCritico();
+void MostrarStatsJugador();

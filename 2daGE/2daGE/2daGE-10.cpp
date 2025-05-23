@@ -18,12 +18,60 @@
 
 
 #include <iostream>
+#include <iomanip> // Para setw y setfill
 #include "2daGE-10.h"
 using namespace std;
 
 
-//int main()
-{
-	();
-	();
+
+// main
+//int main() {
+//    PedirMinutos();
+//    MostrarResultados();
+//    ClasificarJugador();
+//    return 0;
+//}
+
+
+// FUNCIONES
+// Función para pedir los minutos jugados
+void PedirMinutos() {
+    cout << "Enter minutes played on Day 1: ";
+    cin >> day1;
+    cout << "Enter minutes played on Day 2: ";
+    cin >> day2;
+    cout << "Enter minutes played on Day 3: ";
+    cin >> day3;
+
+    totalMinutes = day1 + day2 + day3;
+    averageMinutes = totalMinutes / 3;
 }
+
+// Función para mostrar el total, promedio y formato hh:mm
+void MostrarResultados() {
+    int totalHours = totalMinutes / 60;
+    int totalLeftMinutes = totalMinutes % 60;
+
+    cout << "\nTotal of minutes played: " << totalMinutes << endl;
+    cout << "Average of minutes per day: " << averageMinutes << endl;
+    cout << "Total time played: "
+        << setw(2) << setfill('0') << totalHours << ":"
+        << setw(2) << setfill('0') << totalLeftMinutes << endl;
+}
+
+// Clasificar tipo de jugador según tiempo total
+void ClasificarJugador() {
+    int totalHours = totalMinutes / 60;
+
+    if (totalHours > 10) {
+        cout << "Jugador muy activo" << endl;
+    }
+    else if (totalHours >= 5) {
+        cout << "Jugador regular" << endl;
+    }
+    else {
+        cout << "Jugador casual" << endl;
+    }
+}
+
+

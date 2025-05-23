@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ffmag\\source\\repos\\2daGE-1\\",
+  "WorkspaceRootPath": "C:\\Users\\ffmag\\Documents\\GitHub\\TecEjercicioCplusplus\\2daGE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|C:\\Users\\ffmag\\source\\repos\\2daGE-1\\2daGE\\2daGE-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|solutionrelative:2daGE\\2daGE-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|C:\\Users\\ffmag\\Documents\\GitHub\\TecEjercicioCplusplus\\2daGE\\2daGE\\2daGE-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|solutionrelative:2daGE\\2daGE-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|C:\\Users\\ffmag\\source\\repos\\2daGE-1\\2daGE\\2daGE-7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|solutionrelative:2daGE\\2daGE-7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|C:\\Users\\ffmag\\Documents\\GitHub\\TecEjercicioCplusplus\\2daGE\\2daGE\\2daGE-11.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A9F9B45-1FF1-455E-BB76-10C6404F4D4A}|2daGE\\2daGE.vcxproj|solutionrelative:2daGE\\2daGE-11.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "2daGE-7.h",
-              "DocumentMoniker": "C:\\Users\\ffmag\\source\\repos\\2daGE-1\\2daGE\\2daGE-7.h",
-              "RelativeDocumentMoniker": "2daGE\\2daGE-7.h",
-              "ToolTip": "C:\\Users\\ffmag\\source\\repos\\2daGE-1\\2daGE\\2daGE-7.h",
-              "RelativeToolTip": "2daGE\\2daGE-7.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "2daGE-11.h",
+              "DocumentMoniker": "C:\\Users\\ffmag\\Documents\\GitHub\\TecEjercicioCplusplus\\2daGE\\2daGE\\2daGE-11.h",
+              "RelativeDocumentMoniker": "2daGE\\2daGE-11.h",
+              "ToolTip": "C:\\Users\\ffmag\\Documents\\GitHub\\TecEjercicioCplusplus\\2daGE\\2daGE\\2daGE-11.h",
+              "RelativeToolTip": "2daGE\\2daGE-11.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-21T07:12:37.714Z",
+              "WhenOpened": "2025-05-23T07:41:30Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "2daGE-7.cpp",
-              "DocumentMoniker": "C:\\Users\\ffmag\\source\\repos\\2daGE-1\\2daGE\\2daGE-7.cpp",
-              "RelativeDocumentMoniker": "2daGE\\2daGE-7.cpp",
-              "ToolTip": "C:\\Users\\ffmag\\source\\repos\\2daGE-1\\2daGE\\2daGE-7.cpp",
-              "RelativeToolTip": "2daGE\\2daGE-7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Title": "2daGE-11.cpp",
+              "DocumentMoniker": "C:\\Users\\ffmag\\Documents\\GitHub\\TecEjercicioCplusplus\\2daGE\\2daGE\\2daGE-11.cpp",
+              "RelativeDocumentMoniker": "2daGE\\2daGE-11.cpp",
+              "ToolTip": "C:\\Users\\ffmag\\Documents\\GitHub\\TecEjercicioCplusplus\\2daGE\\2daGE\\2daGE-11.cpp",
+              "RelativeToolTip": "2daGE\\2daGE-11.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-21T07:11:44.482Z",
+              "WhenOpened": "2025-05-23T07:41:27.11Z",
               "EditorCaption": ""
             }
           ]

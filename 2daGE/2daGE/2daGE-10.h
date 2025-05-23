@@ -3,8 +3,11 @@
 //Enums
 
 
-//Funciones
+// Variables
+int day1, day2, day3;
+int totalMinutes, averageMinutes;
 
-
-//Variables
-
+// Funciones
+void PedirMinutos();
+void MostrarResultados();
+void ClasificarJugador();

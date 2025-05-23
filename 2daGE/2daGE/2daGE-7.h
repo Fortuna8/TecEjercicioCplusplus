@@ -1,11 +1,16 @@
 #pragma once
 
+// Enumerador
+enum ERecurso {
+    PUNTOS = 1,
+    MONEDAS,
+    EXPERIENCIA
+};
 
-//Enums
+// Funciones
+int Sumar(int a, int b);
 
-
-//Funciones
-
-
-//Variables
-
+// Variables
+int valor1, valor2;
+int tipo;
+int total;

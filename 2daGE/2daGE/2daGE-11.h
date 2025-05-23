@@ -1,11 +1,18 @@
 #pragma once
+#include <string>
 
 
-//Enums
+// Clases
+class Character {
+public:
+    std::string name;
+    float attack;
+    float defense;
+    float maxHealth;
+    float currentHealth;
 
-
-//Funciones
-
-
-//Variables
-
+    void SetStats();
+    void DisplayStats() const;
+    float DealDamageTo(Character& target) const;
+    bool IsAlive() const;
+};
